@@ -21,7 +21,7 @@
 |      42.40V      |     20ms         |         50.07HZ             |         50HZ               |
 
 # Graph
-![WhatsApp Image 2025-11-09 at 19 52 11_bc021638](https://github.com/user-attachments/assets/fedd1f55-6c4f-44e6-a255-894e0a50f5d3)
+![3(b)](https://github.com/user-attachments/assets/63dbfb22-4736-46e0-b743-7ec71e5ae9d9)
 
 
 # Sample images 
