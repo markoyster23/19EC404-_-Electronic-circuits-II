@@ -11,26 +11,23 @@
 # Circuit Diagram 
 <img width="427" height="420" alt="image" src="https://github.com/user-attachments/assets/5c43422a-5c16-4bc3-940b-1a3d40dda1d7" />
 
-![WhatsApp Image 2025-11-09 at 19 52 13_cbc5198c](https://github.com/user-attachments/assets/2df8adba-4943-4f25-b246-a2196e3f4415)
 
 
+# Tabulation:
+![WhatsApp Image 2025-11-27 at 20 34 34_6d2ffd51](https://github.com/user-attachments/assets/fccaee7e-78ea-41cc-82c6-f64edc85501f)
 
-# Tabulation
 | Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
 |------------|--------------|----------------------|------------------------|
-|      42.40V      |     20ms         |         50.07HZ             |         50HZ               |
+|      5V      |     1ms         |         3.5HZ             |         3.2HZ               |
 
 # Graph
-![3(b)](https://github.com/user-attachments/assets/63dbfb22-4736-46e0-b743-7ec71e5ae9d9)
+![WhatsApp Image 2025-11-27 at 20 30 01_854099bb](https://github.com/user-attachments/assets/7fce2d5c-e29c-4fdf-8160-d03b7c101aa5)
 
-
-# Sample images 
-![WhatsApp Image 2025-11-09 at 19 52 23_5ac1c06c](https://github.com/user-attachments/assets/828fd7e3-e41d-47a8-bb5d-19e46adafed0)
 
 
 # Result
 
 Thus, the **COLPITTS OSCILLATOR** was designed for the given frequency.
 
-- **(i) Theoretical Frequency: 50HZ**  
-- **(ii) Practical Frequency: 50.07HZ**  
+- **(i) Theoretical Frequency: 3.5MHZ**  
+- **(ii) Practical Frequency: 3.2MHZ**  
