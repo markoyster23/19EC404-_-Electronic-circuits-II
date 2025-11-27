@@ -12,25 +12,24 @@
 # Circuit Diagram 
 <img width="477" height="392" alt="image" src="https://github.com/user-attachments/assets/2012bcfa-a0a2-4114-9329-de7ff9ba0a37" />
 
-![WhatsApp Image 2025-11-09 at 19 46 14_926a8d90](https://github.com/user-attachments/assets/5973a9eb-081e-4f77-81f0-cf7015b64b7b)
 
 
 
-# Tabulation
+# Tabulation:
+![WhatsApp Image 2025-11-27 at 20 29 40_0ae0a5c5](https://github.com/user-attachments/assets/71f8698c-4d89-41c2-b42e-a845aff6f74e)
+
 | Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
 |------------|--------------|----------------------|------------------------|
-|    42.40V        |     20ms         |          49.95HZ            |             50HZ           |
+|    7.2V        |     1ms         |          3.62KHZ            |             3.75HZ           |
 
 # Calculations 
-![WhatsApp Image 2025-11-09 at 19 46 13_84aaf63d](https://github.com/user-attachments/assets/bc837d92-cb4f-4218-ba94-650b5cbad3b7)
+![WhatsApp Image 2025-11-27 at 20 29 41_ae3c344d](https://github.com/user-attachments/assets/0c55ab43-8f8e-4d9b-9446-a436589737ed)
 
 # Graph
 
-![3(A)](https://github.com/user-attachments/assets/1028bba4-217e-441c-aa52-d2eefc00dd93)
+![WhatsApp Image 2025-11-27 at 20 30 01_32f1a792](https://github.com/user-attachments/assets/879d8e83-29ce-4514-94df-6e9de45631f3)
 
 
-# Sample images 
-![WhatsApp Image 2025-11-09 at 19 46 29_43361720](https://github.com/user-attachments/assets/33c1333b-4ed4-4616-a105-ee26b0bcb1fb)
 
 
 
@@ -38,5 +37,5 @@
 
 Thus, the **HARTLEY OSCILLATOR** was designed for the given frequency.
 
-- **(i) Theoretical Frequency: 50HZ**  
-- **(ii) Practical Frequency: 49.95HZ**  
+- **(i) Theoretical Frequency: 3.75KHZ**  
+- **(ii) Practical Frequency: 3.62KHZ**  
