@@ -13,31 +13,31 @@
 # Circuit Diagram 
 <img width="514" height="273" alt="image" src="https://github.com/user-attachments/assets/626a6c59-d3af-497e-bd54-8c02c446e652" />
 
-![WhatsApp Image 2025-11-09 at 19 41 53_973d6490](https://github.com/user-attachments/assets/74d15452-07d9-443f-bd3c-0fb6e14aeaf2)
 
 
-# Tabulation
+# Tabulation:
+![WhatsApp Image 2025-11-27 at 20 09 47_e66414bc](https://github.com/user-attachments/assets/1ad36735-6875-48d2-8ad7-d37639defe92)
+
+
 | Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
 |------------|--------------|----------------------|------------------------|
-|      45.2V      |     20ms         |      50.01HZ                |         50HZ               |
+|   11V      |     1.00ms         |      900HZ                |         1.5KHZ               |
 
 # Calculations
-![WhatsApp Image 2025-11-09 at 19 41 52_a0bc16d9](https://github.com/user-attachments/assets/6de4e572-b6d6-4ed2-a158-e58aa60713b6)
+![WhatsApp Image 2025-11-27 at 20 21 40_7c2b8cce](https://github.com/user-attachments/assets/a739e05b-e5ed-48bc-a601-ab205f7454d9)
+
 
 
 # Graph
 
-![2(B)](https://github.com/user-attachments/assets/e88899e3-e924-405a-9c55-b518f3ae88dd)
+![WhatsApp Image 2025-11-27 at 20 21 42_a55808b6](https://github.com/user-attachments/assets/8e0bf4c8-f9fb-448a-b06e-9b338b9d0ab7)
 
-# Sample images 
-
-![WhatsApp Image 2025-11-09 at 19 43 16_455ceaac](https://github.com/user-attachments/assets/2ddb2a20-4afc-483f-a521-2af2e92556bc)
 
 
 ## Result
 
 Thus, the **WEIN BRIDGE OSCILLATOR** was designed for the given frequency.
 
-- **(i) Theoretical Frequency: 50HZ**  
-- **(ii) Practical Frequency: 50.1HZ**  
+- **(i) Theoretical Frequency: 1.5KHZ**  
+- **(ii) Practical Frequency: 900HZ**  
 
