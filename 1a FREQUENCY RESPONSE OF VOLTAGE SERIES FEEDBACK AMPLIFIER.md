@@ -7,27 +7,23 @@
 
 ## Circuit Diagram 
 ## Without Feedback:
-<img width="637" height="365" alt="image" src="https://github.com/user-attachments/assets/191cd72d-ffbf-455c-8d74-09b13d791c7e" />
+<img width="711" height="495" alt="image" src="https://github.com/user-attachments/assets/623912f6-c3ef-482f-af43-5f57bade12d5" />
 
-## With Feedback:
-<img width="617" height="393" alt="image" src="https://github.com/user-attachments/assets/77ad03ce-ee9e-4a7e-950b-eeaad0aaa300" />
 
-![WhatsApp Image 2025-11-09 at 18 49 39_fd0b29fc](https://github.com/user-attachments/assets/8afb14dc-924e-48a5-bf4d-ea0b1701f07b)
 
 
 ## Tabulation
 
-![WhatsApp Image 2025-11-09 at 18 49 40_e781a4f5](https://github.com/user-attachments/assets/13d37ee7-9b5c-4241-a61b-9d88b4d306b2)
+![WhatsApp Image 2025-11-27 at 19 35 07_9741e341](https://github.com/user-attachments/assets/8a3fa23e-24a9-4bd2-93f8-780388ac1dbd)
+
 
 
 ## Graph
 
 
-![1(A)](https://github.com/user-attachments/assets/5c35d301-9795-406a-a53f-fd1addc3de61)
+![WhatsApp Image 2025-11-27 at 19 39 14_2bdc8060](https://github.com/user-attachments/assets/5aeacc58-4ad8-446c-931d-c2bb5176dbee)
 
 
-## Sample images 
-![WhatsApp Image 2025-11-09 at 18 51 23_faf42e6e](https://github.com/user-attachments/assets/958608d2-360e-47cb-91a9-7e5a47faa747)
 
 
 ## **Result**
