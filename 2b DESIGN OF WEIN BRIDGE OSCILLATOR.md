@@ -16,8 +16,7 @@
 
 
 # Tabulation:
-![WhatsApp Image 2025-11-27 at 20 09 47_e66414bc](https://github.com/user-attachments/assets/1ad36735-6875-48d2-8ad7-d37639defe92)
-
+![WhatsApp Image 2025-11-27 at 20 21 41_d741e6b0](https://github.com/user-attachments/assets/73b1293e-cf03-49e5-bb86-437e52a63e99)
 
 | Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
 |------------|--------------|----------------------|------------------------|
